@@ -4,8 +4,6 @@
 
 _More about me at <https://muhrizqiardi.vercel.app>_
 
-From a young age, I've always been drawn to creating and crafting. Whether it's folding intricate origami designs or coding a program in Visual Basic, I love the process of bringing something new into the world. My ultimate goal is to use my skills and talents to create something that has a positive impact on others. That's what drives me and gives me purpose. And I hope to continue doing just that for the rest of my journey.
-
 ## Skills
 
 ### Languages
